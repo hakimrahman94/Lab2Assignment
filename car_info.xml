@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<car_menu>
+    <car>
+        <image>images/Audi A4.jpg</image>
+        <name>2015 Audi A4 1.8 SLINE QUATTRO FULL SPECS B/0 2014</name>
+        <mileage>5 000 - 9 999</mileage>
+        <price>RM 176 888</price>
+        <description>This car is used</description>
+        
+    </car>
+    <car>
+        <image>images/Mercedes Benz E250.jpg</image>
+        <name>2012 Mercedes Benz E250 1.8 7G FACELIFT AMG E200</name>
+        <mileage>25 000 - 29 999</mileage>
+        <price>RM 182 888 </price>
+        <description>This car is recon</description>
+       
+        
+    </car>
+    <car>
+        <image>images/BMW i8.jpg</image>
+        <name>2015 BMW i8 1.5 UK Unregister</name>
+        <mileage>0 - 4 999</mileage>
+        <price>RM 728 000 </price>
+        <description>This car is used</description>
+        
+        
+    </car>
+   <car>
+        <image>images/Hyundai Tucson 2.0.jpg</image>
+        <name>2011 Hyundai Tucson 2.0 (A) REG 2012 [ TIP TOP ]</name>
+        <mileage>60 000 - 64 999</mileage>
+        <price>RM 46 000 </price>
+        <description>This car is recon</description>
+        
+        
+    </car>
+    <car>
+        <image>images/Hyundai Sonata 2.0.png</image>
+        <name>2011 Hyundai Sonata 2.0 Sedan (A) Sport Rim x4</name>
+        <mileage>65 000 - 69 999</mileage>
+        <price>RM 56 888 </price>
+        <description>This car is used</description>
+        
+        
+    </car>
+    <car>
+        <image>images/Hyundai Santa Fe.jpg</image>
+        <name>Hyundai Santa Fe 2.2 (A) D*T/TOP CONDITION*1 OWNER</name>
+        <mileage>65 000 - 69 999</mileage>
+        <price>RM 65 800 </price>
+        <description>This car is recon</description>
+    </car>
+</car_menu>

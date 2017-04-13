@@ -1,0 +1,45 @@
+.header{
+  background-color: white;
+}
+
+.imageHeader{
+  width: 500px;
+  margin-left:210px;
+}
+
+#car {
+  font:13px Arial;
+  overflow:hidden;
+}
+
+#car div  {
+  width:auto;
+  text-align:right;
+  margin:1px;
+  padding:2px 5px;
+  letter-spacing:1px;
+}
+
+.carImage{
+  width:300px;
+  background-color: white;
+}
+
+.my_container{
+  padding: 15px 200px ;
+}
+
+.button{
+   margin-bottom:-21px;
+}
+
+.mainButton{
+   padding-bottom:20px;
+   margin-top: 20px;
+}
+
+.numberButton{
+   text-align:right;
+}
+
+
